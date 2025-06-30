@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Albab Hasan
 
-I'm a 16-year-old self-taught developer from **Bangladesh**. I love solving problems using code—whether it's building smart AI models or cracking tough algorithmic challenges.
+I'm a 16-year-old self-taught developer from **Bangladesh**. I love solving problems using code—whether it's building smart ML models or cracking tough algorithmic challenges.
 
 ---
 
