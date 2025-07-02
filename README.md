@@ -20,6 +20,7 @@ I'm a 16-year-old self-taught developer from **Bangladesh**. I love solving prob
 | Kaggle        | [kaggle.com/albab12](https://www.kaggle.com/albab12)                |
 | LeetCode      | [leetcode.com/u/Albab_hasan/](https://leetcode.com/u/Albab_hasan/)  |
 | Codeforces    | [codeforces.com/profile/albab_hasan-](https://codeforces.com/profile/albab_hasan-) |
+| Chess.com     | [https://www.chess.com/member/hasanabyy](https://www.chess.com/member/hasanabyy) |
 
 ---
 
