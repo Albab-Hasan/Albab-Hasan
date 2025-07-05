@@ -29,7 +29,7 @@ I'm a 16-year-old self-taught developer from **Bangladesh**. I love solving prob
 - ✨ My own implementations of DSA in C++
 - 🤖 AI experiments in Python
 - 🔧 Utility tools & problem-solving scripts
-- 🚀 [Coming Soon] Aerospace simulations and systems design experiments
+- 🚀 Aerospace simulations and systems design experiments
 
 ---
 
