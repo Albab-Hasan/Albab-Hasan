@@ -27,6 +27,9 @@ Self-taught developer from Bangladesh with a passion for solving complex problem
 
 My repos showcase implementations of core algorithms, ML experiments, utility tools, and aerospace simulations. Each project reflects my journey of learning by building and solving real problems.
 
+## My stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Albab-Hasan)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 *Always learning, always building.*
