@@ -1,50 +1,32 @@
-# 👋 Hi, I'm Albab Hasan
+# Albab Hasan
 
-I'm a 16-year-old self-taught developer from **Bangladesh**. I love solving problems using code—whether it's building smart ML models or cracking tough algorithmic challenges.
+Self-taught developer from Bangladesh with a passion for solving complex problems through code. At 16, I'm diving deep into machine learning, competitive programming, and systems design.
 
----
+## What I'm Working On
 
-## 🧠 Interests & Skills
+**Machine Learning & AI** - Experimenting with neural networks, training pipelines, and deep learning frameworks. Currently exploring computer vision and NLP applications.
 
-- 🤖 **Machine Learning & AI** — currently learning models, training pipelines, and deep learning
-- 🧮 **Competitive Programming** — active on Codeforces, LeetCode, and AtCoder
-- 💻 **Languages:** Python, C++, C
-- ✈️ **Other Interests:** Aerospace, Systems Design, Simulation
+**Competitive Programming** - Actively solving problems on Codeforces, LeetCode, and AtCoder. Love the challenge of optimizing algorithms and finding elegant solutions under time pressure.
 
----
+**Aerospace & Simulation** - Fascinated by rocket dynamics and orbital mechanics. Building simulations to understand how things fly and designing systems for space applications.
 
-## 🌍 Find Me Online
+## Tech Stack
 
-| Platform      | Link                                                                 |
-|---------------|----------------------------------------------------------------------|
-| Kaggle        | [kaggle.com/albab12](https://www.kaggle.com/albab12)                |
-| LeetCode      | [leetcode.com/u/Albab_hasan/](https://leetcode.com/u/Albab_hasan/)  |
-| Codeforces    | [codeforces.com/profile/albab_hasan-](https://codeforces.com/profile/albab_hasan-) |
-| Chess.com     | [https://www.chess.com/member/hasanabyy](https://www.chess.com/member/hasanabyy) |
+- **Primary Languages:** Python, C++, C
+- **ML/AI:** TensorFlow, PyTorch, scikit-learn
+- **Problem Solving:** Data structures, algorithms, mathematical optimization
 
----
+## Connect
 
-## 📌 Some Projects You’ll Find Here
+- **Kaggle:** [your-kaggle-profile]
+- **LeetCode:** [leetcode.com/u/Albab_hasan/]
+- **Codeforces:** [codeforces.com/profile/albab_hasan-]
+- **Chess:** [chess.com/member/hasanabyy]
 
-- ✨ My own implementations of DSA in C++
-- 🤖 AI experiments in Python
-- 🔧 Utility tools & problem-solving scripts
-- 🚀 Aerospace simulations and systems design experiments
+## Repository Highlights
+
+My repos showcase implementations of core algorithms, ML experiments, utility tools, and aerospace simulations. Each project reflects my journey of learning by building and solving real problems.
 
 ---
 
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-
----
-
-Thanks for stopping by! 😊
-
-
-<!---
-Albab-Hasan/Albab-Hasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*Always learning, always building.*
