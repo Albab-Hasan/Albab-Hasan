@@ -1,5 +1,5 @@
 # Albab Hasan
-Your average Joe, Playing around with code. You'll mostly find things related to Systems and Art here.
+Your average HighSchooler, Playing around with code. You'll mostly find things related to Systems and Art here.
 
 ## Connect
 - **Kaggle:** [https://www.kaggle.com/albab12]
