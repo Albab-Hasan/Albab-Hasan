@@ -1,6 +1,6 @@
 # Hey, I'm Albab Hasan
 
-Competitive programmer and ML enthusiast from Bangladesh. I enjoy solving algorithmic problems and building things with code.
+Average Highschool Competitive programmer and ML enthusiast from Bangladesh. I enjoy solving algorithmic problems and building things with code.
 
 ## Competitive Programming
 
