@@ -27,6 +27,7 @@ Average Highschool Competitive programmer and ML enthusiast from Bangladesh. I e
 
 ## Find Me
 
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?logo=youtube)](https://www.youtube.com/@albabhasan0)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1627-blue?logo=codeforces)](https://codeforces.com/profile/albab_hasan-)
 [![CodeChef](https://img.shields.io/badge/CodeChef-1947-brown?logo=codechef)](https://www.codechef.com/users/albab_hasan)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Expert-20beff?logo=kaggle)](https://www.kaggle.com/albab12)
