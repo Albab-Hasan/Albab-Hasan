@@ -29,3 +29,11 @@ Average Highschool Competitive programmer and ML enthusiast from Bangladesh. I e
 [![CodeChef](https://img.shields.io/badge/CodeChef-1947-brown?logo=codechef)](https://www.codechef.com/users/albab_hasan)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Expert-20beff?logo=kaggle)](https://www.kaggle.com/albab12)
 [![LeetCode](https://img.shields.io/badge/LeetCode-albab__hasan-orange?logo=leetcode)](https://leetcode.com/albab_hasan)
+
+## Open Source Contributions
+
+Some pull requests Ive had merged into **ACE-Step-1.5**:
+
+- [#319: fix: prevent arbitrary code execution via unsafe torch.load()](https://github.com/ace-step/ACE-Step-1.5/pull/319)  
+- [#226: fix: use per-socket timeout instead of global setdefaulttimeout](https://github.com/ace-step/ACE-Step-1.5/pull/226)  
+- [#161: fix path traversal vulnerability in audio endpoint](https://github.com/ace-step/ACE-Step-1.5/pull/161)
