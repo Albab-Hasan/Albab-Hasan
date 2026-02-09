@@ -32,8 +32,11 @@ Average Highschool Competitive programmer and ML enthusiast from Bangladesh. I e
 
 ## Open Source Contributions
 
-Some pull requests Ive had merged into **ACE-Step-1.5**:
+**Zed**:
+- [#48727: gpui: Reset `external_files_dragged` after successful drag-drop on macOS](https://github.com/zed-industries/zed/pull/48727)
 
+**ACE-Step-1.5**:
+- [#343: fix: path traversal vulnerability in audio file path handling](https://github.com/ace-step/ACE-Step-1.5/pull/343)
 - [#319: fix: prevent arbitrary code execution via unsafe torch.load()](https://github.com/ace-step/ACE-Step-1.5/pull/319)  
 - [#226: fix: use per-socket timeout instead of global setdefaulttimeout](https://github.com/ace-step/ACE-Step-1.5/pull/226)  
 - [#161: fix path traversal vulnerability in audio endpoint](https://github.com/ace-step/ACE-Step-1.5/pull/161)
