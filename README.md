@@ -34,6 +34,8 @@ Average Highschool Competitive programmer and ML enthusiast from Bangladesh. I e
 
 **Zed**:
 - [#48727: gpui: Reset `external_files_dragged` after successful drag-drop on macOS](https://github.com/zed-industries/zed/pull/48727)
+- [#48850: gpui: Fix double-close of fd in read_fd on linux](https://github.com/zed-industries/zed/pull/48850)
+- [#48317: agent: Remove duplicate `line_hint` assignment in `StreamingFuzzyMatcher::push`](https://github.com/zed-industries/zed/pull/48317)
 
 **ACE-Step-1.5**:
 - [#343: fix: path traversal vulnerability in audio file path handling](https://github.com/ace-step/ACE-Step-1.5/pull/343)
