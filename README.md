@@ -32,6 +32,9 @@ Average Highschool Competitive programmer and ML enthusiast from Bangladesh. I e
 
 ## Open Source Contributions
 
+**Rust-Analyzer**:
+- [#21647: fix: handle `ref mut` bindings in `contains_explicit_ref_binding`](https://github.com/rust-lang/rust-analyzer/pull/21647)
+
 **Zed**:
 - [#48727: gpui: Reset `external_files_dragged` after successful drag-drop on macOS](https://github.com/zed-industries/zed/pull/48727)
 - [#48850: gpui: Fix double-close of fd in read_fd on linux](https://github.com/zed-industries/zed/pull/48850)
