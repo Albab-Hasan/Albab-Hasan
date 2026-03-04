@@ -33,6 +33,7 @@ Average Highschool Competitive programmer and ML enthusiast from Bangladesh. I e
 ## Open Source Contributions
 
 **Rust-Analyzer**:
+- [#21726: Fix: align `is_rust()` with rustc by correcting constructor ABI in next solver](https://github.com/rust-lang/rust-analyzer/pull/21726)
 - [#21647: fix: handle `ref mut` bindings in `contains_explicit_ref_binding`](https://github.com/rust-lang/rust-analyzer/pull/21647)
 - [#21649: fix: use `ExprIsRead::Yes` for rhs of ordinary assignments](https://github.com/rust-lang/rust-analyzer/pull/21649)
 - [#21699: fix: Detect E0804 when casting raw ptr-to-dyn adds auto traits](https://github.com/rust-lang/rust-analyzer/pull/21699)
