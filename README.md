@@ -32,6 +32,9 @@ Average Highschool Competitive programmer and ML enthusiast from Bangladesh. I e
 
 ## Open Source Contributions
 
+**Linux**:
+- [staging: vme_user: remove unimplemented #if 0 code blocks (Currently in staging git tree; Stage-testing branch)](https://lore.kernel.org/linux-staging/DGROXGWX17G4.1782487P7HLCT@gmail.com/T/#t)
+
 **Rust-Analyzer**:
 - [#21726: Fix: align `is_rust()` with rustc by correcting constructor ABI in next solver](https://github.com/rust-lang/rust-analyzer/pull/21726)
 - [#21647: fix: handle `ref mut` bindings in `contains_explicit_ref_binding`](https://github.com/rust-lang/rust-analyzer/pull/21647)
