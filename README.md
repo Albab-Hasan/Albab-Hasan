@@ -34,6 +34,7 @@ Average Highschool Competitive programmer and ML enthusiast from Bangladesh. I e
 
 **Linux**:
 - [staging: vme_user: remove unimplemented #if 0 code blocks (Currently in staging git tree; Stage-testing branch)](https://lore.kernel.org/linux-staging/DGROXGWX17G4.1782487P7HLCT@gmail.com/T/#t)
+- [[PATCH] rust: transmute: use split_at_checked() and split_at_mut_checked() (Currently waiting for MSRV bump to rebase on top of that)](https://lore.kernel.org/all/20260310095710.1166-1-albabhasan276@gmail.com/)
 
 **Rust-Analyzer**:
 - [#21726: Fix: align `is_rust()` with rustc by correcting constructor ABI in next solver](https://github.com/rust-lang/rust-analyzer/pull/21726)
