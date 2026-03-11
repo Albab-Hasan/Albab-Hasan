@@ -37,6 +37,7 @@ Average Highschool Competitive programmer and ML enthusiast from Bangladesh. I e
 - [[PATCH] rust: transmute: use split_at_checked() and split_at_mut_checked() (Currently waiting for MSRV bump to rebase on top of that)](https://lore.kernel.org/all/20260310095710.1166-1-albabhasan276@gmail.com/)
 
 **Rust-Analyzer**:
+- [#21794: fix: add naming convention validation for `union` types](https://github.com/rust-lang/rust-analyzer/pull/21794)
 - [#21726: Fix: align `is_rust()` with rustc by correcting constructor ABI in next solver](https://github.com/rust-lang/rust-analyzer/pull/21726)
 - [#21647: fix: handle `ref mut` bindings in `contains_explicit_ref_binding`](https://github.com/rust-lang/rust-analyzer/pull/21647)
 - [#21649: fix: use `ExprIsRead::Yes` for rhs of ordinary assignments](https://github.com/rust-lang/rust-analyzer/pull/21649)
