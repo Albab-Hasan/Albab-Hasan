@@ -10,6 +10,7 @@ High school student, systems programmer, and open-source contributor from Bangla
 
 | PR | Description | Status |
 |----|-------------|--------|
+| [#21838](https://github.com/rust-lang/rust-analyzer/pull/21838) | fix: skip usages inside macro expansions in destructure struct/tuple binding | Merged |
 | [#21779](https://github.com/rust-lang/rust-analyzer/pull/21779) | Replace TODO placeholders in next-solver IrPrint with proper formatting | Merged |
 | [#21726](https://github.com/rust-lang/rust-analyzer/pull/21726) | Align `is_rust()` with rustc by correcting constructor ABI in next solver | Merged |
 | [#21699](https://github.com/rust-lang/rust-analyzer/pull/21699) | Detect E0804 when casting raw ptr-to-dyn adds auto traits | Merged |
