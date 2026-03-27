@@ -32,6 +32,8 @@ High school student, systems programmer, and open-source contributor from Bangla
 
 - [staging: vme_user: remove unimplemented `#if 0` code blocks](https://lore.kernel.org/linux-staging/DGROXGWX17G4.1782487P7HLCT@gmail.com/T/#t) -- in staging tree
 - [rust: transmute: use `split_at_checked()` and `split_at_mut_checked()`](https://lore.kernel.org/all/20260310095710.1166-1-albabhasan276@gmail.com/) -- pending MSRV bump
+- [rust: print: add SAFETY comments to unsafe blocks](https://lore.kernel.org/all/20260321143406.67066-1-albabhasan276@gmail.com/) -- waiting for possible collab/closure. reason: duplicate
+- [rust: workqueue: add SAFETY comments for Pin<KBox<T>> impl blocks](https://lore.kernel.org/all/20260322044340.129985-1-albabhasan276@gmail.com/) -- Cc'd to workqueue owners.
 
 ### ACE-Step-1.5 -- security fixes
 
