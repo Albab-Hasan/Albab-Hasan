@@ -54,6 +54,10 @@ High school student, systems programmer, and open-source contributor from Bangla
 
 **[Bangladesh Weather & Pollution Dataset](https://github.com/Albab-Hasan/Bangladesh-Weather-Pollution-Dataset)** -- 14,208 daily observations of weather and air quality across all 64 districts of Bangladesh. 7 months of cleaned data, no missing values.
 
+## Research
+
+**Automated Semantic Testing of IDE Code Assists via Differential Compilation**
+
 ## Competitive Programming & ML
 
 | Platform | Rating | Rank |
