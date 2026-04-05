@@ -46,6 +46,8 @@ I fix bugs in compilers, editors, and kernels. 17, from Bangladesh.
 
 [**Hydrogen Orbital Visualizer**](https://github.com/Albab-Hasan/Hydrogen-Orbital-Visualizer) — Real-time 3D electron orbital renderer in C++ with GPU shaders. 500k-particle point clouds.
 
+[**keyrift**](https://github.com/Albab-Hasan/keyrift) — Shows your keystrokes on screen as you type. Built for screen recording and presentations.
+
 ## Competitive Programming
 
 Codeforces [Expert](https://codeforces.com/profile/albab_hasan-) (1627) · CodeChef [4-star](https://www.codechef.com/users/albab_hasan) (1947, #88 in Bangladesh)
